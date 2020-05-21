@@ -1,3 +1,4 @@
+[![Build Status](https://nprovotorov.visualstudio.com/SpaceGame%20-%20web%20-%20pipeline/_apis/build/status/nprovotorov.mslearn-tailspin-spacegame-web?branchName=master)](https://nprovotorov.visualstudio.com/SpaceGame%20-%20web%20-%20pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
